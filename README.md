@@ -1,6 +1,7 @@
 # s3-nginx
 
 [![License][license_md]][license]
+[![Travis CI][travis_ci]][travis]
 [![Docker Pull][docker_pull]][docker]
 [![Docker Star][docker_star]][docker]
 [![Docker Size][docker_size]][docker]
@@ -21,3 +22,5 @@ sudo docker run --rm -e DOMAIN=example.com joshava/s3-nginx
 [docker_layer]: https://img.shields.io/microbadger/layers/joshava/s3-nginx.svg
 [license]: https://github.com/joshava/s3-nginx/blob/master/LICENSE
 [license_md]: https://img.shields.io/github/license/joshava/s3-nginx.svg
+[travis]: https://travis-ci.org/joshava/s3-nginx
+[travis_ci]: https://img.shields.io/travis/joshava/s3-nginx.svg
