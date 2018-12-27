@@ -6,6 +6,8 @@
 [![Docker Size][docker_size]][docker]
 [![Docker Layer][docker_layer]][docker]
 
+Nginx proxy for public S3 bucket.
+
 ## Usage
 
 ```bash
